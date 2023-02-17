@@ -11,5 +11,5 @@ I make images, sound and maps using data. Here's some stuff I made:
 
 <img src="posterfinal.webp"  width="49%" height="20%"> <img src="sortgridnew.jpg"  width="49%" height="20%">
 
-<img src="cloudeq.jpg"  width="49%" height="20%"> <img src="tarkos.png"  width="49%" height="20%">
+<img src="cloudeq.jpg"  width="49%" height="20%"> <img src="tarkos.PNG"  width="49%" height="20%">
 
