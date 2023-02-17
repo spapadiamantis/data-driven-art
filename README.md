@@ -1,9 +1,9 @@
 ![](/banner.PNG)
 
 
-<p align="center"> 
+<h1 align="center"> 
 # Data Driven Artwork
-</p>
+</h1>
 
 I make images, sound and maps using data. Here's some stuff I made:
 
