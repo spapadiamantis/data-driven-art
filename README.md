@@ -1,4 +1,4 @@
-![alt text](banner.png)
+![alt text](/banner.png)
 
 # Data Driven Artwork
 
