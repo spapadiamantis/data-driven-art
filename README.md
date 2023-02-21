@@ -15,5 +15,7 @@ I make images, sound and maps using data.My aim is to upload my work here, along
 </p>
 
 <img src="cloudeq.jpg"  width="49%" height="20%"> <img src="tarkos.PNG"  width="49%" height="20%">
+<em style="font-size: 12px;"> <b>left</b>: Colour poster made from video using Python and OpenCV</em>
+<em style="font-size: 12px;"> <b>right</b>: There are no circles in this image. Von Mises circular distribution visualization with Python and OpenCV</em>
 
 ![](/MORPH.mp4)
