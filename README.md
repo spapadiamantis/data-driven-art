@@ -19,6 +19,6 @@ I make images, sound and maps using data.My aim is to upload my work here, along
 <em style="font-size: 12px;"> <b>right</b>: There are no circles in this image. Von Mises circular distribution visualization with Python and OpenCV</em>
 
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/803008038?h=1dcdf76895" width="640" height="533" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/803008038?h=1dcdf76895" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/803001043?h=8c72fc71ed" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
